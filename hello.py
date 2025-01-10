@@ -1,3 +1,3 @@
-# This program says 'hello!' to the user.
+# This program prints "Hello, world!" to the user.
 
-print("Hello!")
+print("Hello, world!")
